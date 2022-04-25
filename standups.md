@@ -4,7 +4,7 @@ In this file I will indicate where and how I have worked on the GP learning outc
 ## Web application
 *You design and build user-friendly, full-stack web applications.*
 
-*User friendly: You apply basic User experience testing and development techniques.
+*User friendly: You apply basic User experience testing and development techniques.*
 
-*Full-stack: You design and build a full stack application using commonly accepted front end (Javascript-based framework) and back end techniques (e.g. Object Relational *Mapping) choosing and implementing relevant communication protocols and addressing asynchronous communication issues.
+*Full-stack: You design and build a full stack application using commonly accepted front end (Javascript-based framework) and back end techniques (e.g. Object Relational Mapping) choosing and implementing relevant communication protocols and addressing asynchronous communication issues.*
 
