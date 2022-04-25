@@ -18,3 +18,7 @@ As told earlier was I responseble for the connecting between the shopping kart a
 *You choose and implement the most suitable agile software development method for your software project.*
 
 *Choose :You are aware of the most popular agile methods and their underlying agile principles. Your choice of a method is motivated and based on well-defined selection criteria and context analyses.*
+
+### 1. Jira board
+In our group project we use jira to manage out project. In jira we keep track of our userstories and we log our time spent. Every sprint we choose the userstories and predict the time needed for them using story point poker. 
+![image](https://user-images.githubusercontent.com/49039524/165054590-5130bf44-fabf-4e46-b0d3-973da6ba87f2.png)
