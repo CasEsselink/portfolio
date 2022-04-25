@@ -14,4 +14,7 @@ I learned to make and develop an React application. In our group project we used
 ### 2. API
 As told earlier was I responseble for the connecting between the shopping kart and the restaurants staff tool. The two are connected with a Rest calls and websockets. Both are made in a springboot applictation using java.
 
-## 
+## Agile method
+*You choose and implement the most suitable agile software development method for your software project.
+
+Choose :You are aware of the most popular agile methods and their underlying agile principles. Your choice of a method is motivated and based on well-defined selection criteria and context analyses.*
