@@ -14,6 +14,50 @@ I learned to make and develop an React application. In our group project we used
 ### 2. API
 As told earlier was I responseble for the connecting between the shopping kart and the restaurants staff tool. The two are connected with a Rest calls and websockets. Both are made in a springboot applictation using java.
 
+## Software quality
+*You use software tooling and methodology that continuously monitors and improve the software quality during software development.*
+
+*Tooling and methodology: Carry out, monitor and report on unit integration, regression and system tests, with attention for security and performance aspects, as well as applying static code analysis and code reviews.*
+
+### Unit and integration tests
+In both the group project and in my individual project, I have made unit tests. I made these to regularly test the quality of my software. I also made integration tests for both. These run bigger parts of my project and test the connection between smaller units. Below you see some images of my unit and integration tests.
+
+### Automating tests 
+I made a maven workflow in github. This workflow build the application and runs the tests on each push and merge on the main branch. This is the workflow I made for one of the repositories in my personal project:
+'''
+name: Leaderboard cicd
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+    env:
+      DB_DATABASE: leaderboard
+      DB_USER: root
+      DB_PASSWORD: root
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+    - name: Set up JDK 11
+      uses: actions/setup-java@v3
+      with:
+        java-version: '11'
+        distribution: 'temurin'
+        cache: maven
+    - name: Set up MySQL
+      run: |
+        sudo /etc/init.d/mysql start
+        mysql -e 'CREATE DATABASE ${{ env.DB_DATABASE }};' -u${{ env.DB_USER }} -p${{ env.DB_PASSWORD }}
+    - name: Build with Maven
+      run: mvn clean install
+    - name: Test with Maven
+      run: mvn -B test
+'''
 ## Agile method
 *You choose and implement the most suitable agile software development method for your software project.*
 
