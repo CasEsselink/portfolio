@@ -56,8 +56,7 @@ jobs:
     - name: Build with Maven
       run: mvn clean install
     - name: Test with Maven
-      run: mvn -B test
-'''     
+      run: mvn -B test '''     
 ## Agile method
 *You choose and implement the most suitable agile software development method for your software project.*
 
