@@ -71,7 +71,7 @@ Every day we have a standup and standdown. I am the scrum master for the second 
 ![image](https://user-images.githubusercontent.com/49039524/165056092-7166df38-28a6-42f5-bf84-232974fa8c31.png)
 
 ### 3. Github project
-For my individual project I use github project. On this board I keep track of my userstories. Here I choose wich userstory to work on next. I assign the userstories to the right repositories as issues.
+For my individual project I use github project. On this board I keep track of my userstories. Here I choose which userstory to work on next. I assign the userstories to the right repositories as issues.
 ![image](https://user-images.githubusercontent.com/49039524/168060287-7cebad44-e5fa-4004-8171-a7beb337815d.png)
 
 
