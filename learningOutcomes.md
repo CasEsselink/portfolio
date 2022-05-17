@@ -76,6 +76,7 @@ For my individual project I use github project. On this board I keep track of my
 
 ## CI/CD
 *You design and implement a (semi)automated software release process that matches the needs of the project context.*
+
 *Design and implement: You design a release process and implement a continuous integration and deployment solution (using e.g. Gitlab CI and Docker).*
 
 ### 1. Github actions
