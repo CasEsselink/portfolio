@@ -75,10 +75,8 @@ For my individual project I use github project. On this board I keep track of my
 ![image](https://user-images.githubusercontent.com/49039524/168060287-7cebad44-e5fa-4004-8171-a7beb337815d.png)
 
 ## CI/CD
-*You implement a (semi)automated software release process that matches the needs of the project context.*
-*Implement:
-
-You implement a continuous integration and deployment solution (using e.g. Gitlab CI and Docker)*
+*You design and implement a (semi)automated software release process that matches the needs of the project context.*
+*Design and implement: You design a release process and implement a continuous integration and deployment solution (using e.g. Gitlab CI and Docker).*
 
 ### 1. Github actions
 For both front and backend in my individual project and the group project I use github actions. For the backend it is a maven workflow. In the frontend I use nodejs. 
