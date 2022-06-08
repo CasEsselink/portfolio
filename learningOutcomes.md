@@ -87,3 +87,18 @@ For both front and backend in my individual project and the group project I use 
 
 *Multipletypes of test techniques: You apply user acceptance testing and stakeholder feedback to validate the quality of the requirements. You evaluate the quality of the design (e.g., by testing or prototyping) taking into account the formulated quality properties like security and performance.*
 
+## Business processes
+*You can explain simple business processes and relate them to the development of your software project.*
+
+*Simple: predominantly sequential processes with one or two alternative paths.*
+
+*Relate: understanding the relationships between the process and software.*
+
+## Professional
+
+*You act in a professional manner during software development and learning.*
+
+*You develop software as a team effort according to a prescribed software methodology and following team agreements. You are able to track your work progress and communicate your progress with the team.
+
+You  independently recognize and decide where your knowledge falls short to solve a software problem and  communicate which new knowledge and skills you need to learn.*
+
