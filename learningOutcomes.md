@@ -19,6 +19,7 @@ As told earlier was I responseble for the connecting between the shopping kart a
 
 ### 4. Individual project
 For my individual project I made a vue front-end and a springboot back-end. I used vue with javascript and uses axios to connect to the back-end. This connection is made with Rest calls. The springboot servers are made with java. I have multiple servers, that all use there own mysql database. The connection to the is made with JPA as on orm. 
+The link to my individual project: https://github.com/S3Puzzle
 
 ## Software quality
 *You use software tooling and methodology that continuously monitors and improve the software quality during software development.*
