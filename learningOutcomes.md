@@ -82,10 +82,16 @@ For my individual project I use github project. On this board I keep track of my
 ### 1. Github actions
 For both front and backend in my individual project and the group project I use github actions. For the backend it is a maven workflow. In the frontend I use nodejs. These workflows get run when there is a push request or an merge with the main branch. First they install dependencies and build the project, then the test get preformed. 
 
+### 2. Self-hosted runner
+I researched how to make a self-hosted runner. In my research I pointed out the advantages of a self-hosted runner. Most importantly being not having to wait for the workflow to be executed. The biggest challenge was setting up the mysql server. The standard git runner is an ubuntu machine, so I had to change the mysql setup from linux to windows.
+
 ## Requirements and Design
 *You translate (non-functional) requirements to extend existing (architectural) designs and can validate them using multiple types of test techniques.*
 
 *Multipletypes of test techniques: You apply user acceptance testing and stakeholder feedback to validate the quality of the requirements. You evaluate the quality of the design (e.g., by testing or prototyping) taking into account the formulated quality properties like security and performance.*
+
+### Individual project
+
 
 ## Business processes
 *You can explain simple business processes and relate them to the development of your software project.*
