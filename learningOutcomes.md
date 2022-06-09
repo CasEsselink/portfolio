@@ -91,7 +91,7 @@ I researched how to make a self-hosted runner. In my research I pointed out the 
 *Multipletypes of test techniques: You apply user acceptance testing and stakeholder feedback to validate the quality of the requirements. You evaluate the quality of the design (e.g., by testing or prototyping) taking into account the formulated quality properties like security and performance.*
 
 ### Individual project
-
+Using the func
 
 ## Business processes
 *You can explain simple business processes and relate them to the development of your software project.*
