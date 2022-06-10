@@ -87,11 +87,11 @@ In our group project we use jira to manage out project. At the start of our proj
 ![image](https://user-images.githubusercontent.com/49039524/165054590-5130bf44-fabf-4e46-b0d3-973da6ba87f2.png)
 
 ### 3. Standup and standdown
-Every day we have a standup and standdown. I am the scrum master for the second sprint. As scrum master I am responseble for a smooth standup and standdown. We log the information off this meeting in discord.
+Every day we have a standup and standdown. I was the scrum master for the second and third sprint. As scrum master I was responsible for a smooth standup and standdown. During the standup we ask all members of the team what they did last time and what they are going to do that day. During the standdown we ask what was completed and what they were not able to complete that day. All the minutes are saved in discord. These are from standups and down, but also from meetings with teachers and product owners. 
 ![image](https://user-images.githubusercontent.com/49039524/165056092-7166df38-28a6-42f5-bf84-232974fa8c31.png)
 
 ### 4. Github project
-For my individual project I use github project. On this board I keep track of my userstories. Here I choose which userstory to work on next. I assign the userstories to the right repositories as issues.
+For my individual project I use github project. This is a lot simpler tool than jira. This is convinient for a individual project. It has a backlog that I filled with userstories. I assign this userstories to git repositories. When I start working on them I place them in "In Progress". When they are completed, they are placed in "Done".
 ![image](https://user-images.githubusercontent.com/49039524/168060287-7cebad44-e5fa-4004-8171-a7beb337815d.png)
 
 ## CI/CD
