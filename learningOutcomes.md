@@ -83,7 +83,7 @@ jobs:
 An agile software development method helps to keep track of the project. It makes it clear what has been done and what still needs to be done. In a group it also helps knowing who is doing what. This makes it so that you always know, who is responseble for a certain part of the project. This is convenient to check that everyone is doing their job, but also to know who you need to ask if you don't understand a part of the project. Because of the sprints the feedback loop with the product owners is shorter and this makes for a highter quality product. 
 
 ### 2. Jira board
-In our group project we use jira to manage out project. In jira we keep track of our userstories and we log our time spent. Every sprint we choose the userstories and predict the time needed for them using story point poker. 
+In our group project we use jira to manage out project. At the start of our project we wrote userstories, based on the requirements from the project owners. We put there userstories on our backlog. On the beginning of every sprint we choose which userstories to implement that sprint. To help us to choose the right userstories we use storypoints. When we agree on the storypoint and the userstories we want to implement, we start the sprint. Then we divide the userstories between us. The userstories themselve we divide in to issues. We start working on the issues and log time spent on these issues. After all isseus are done a userstory is done. 
 ![image](https://user-images.githubusercontent.com/49039524/165054590-5130bf44-fabf-4e46-b0d3-973da6ba87f2.png)
 
 ### 3. Standup and standdown
