@@ -79,15 +79,18 @@ jobs:
 
 *Choose :You are aware of the most popular agile methods and their underlying agile principles. Your choice of a method is motivated and based on well-defined selection criteria and context analyses.*
 
-### 1. Jira board
+### 1. Why
+An agile software development method helps to keep track of the project. It makes it clear what has been done and what still needs to be done. In a group it also helps knowing who is doing what. This makes it so that you always know, who is responseble for a certain part of the project. This is convenient to check that everyone is doing their job, but also to know who you need to ask if you don't understand a part of the project. Because of the sprints the feedback loop with the product owners is shorter and this makes for a highter quality product. 
+
+### 2. Jira board
 In our group project we use jira to manage out project. In jira we keep track of our userstories and we log our time spent. Every sprint we choose the userstories and predict the time needed for them using story point poker. 
 ![image](https://user-images.githubusercontent.com/49039524/165054590-5130bf44-fabf-4e46-b0d3-973da6ba87f2.png)
 
-### 2. Standup and standdown
+### 3. Standup and standdown
 Every day we have a standup and standdown. I am the scrum master for the second sprint. As scrum master I am responseble for a smooth standup and standdown. We log the information off this meeting in discord.
 ![image](https://user-images.githubusercontent.com/49039524/165056092-7166df38-28a6-42f5-bf84-232974fa8c31.png)
 
-### 3. Github project
+### 4. Github project
 For my individual project I use github project. On this board I keep track of my userstories. Here I choose which userstory to work on next. I assign the userstories to the right repositories as issues.
 ![image](https://user-images.githubusercontent.com/49039524/168060287-7cebad44-e5fa-4004-8171-a7beb337815d.png)
 
