@@ -113,16 +113,20 @@ I researched how to make a self-hosted runner. In my research I pointed out the 
 
 *Recognize:  Recognition is based on theoretically substantiated awareness of cultural differences and ethical aspects in software engineering.*
 
-*Take into account:
-Adapt your communication, working, and behavior styles to work with other developers from different cultures; 
-Address one of the standard Programming Ethical Guidelines (e.g., ACM Code of Ethics and Professional Conduct) in your work.  *
+*Take into account:*
+
+*Adapt your communication, working, and behavior styles to work with other developers from different cultures;* 
+
+*Address one of the standard Programming Ethical Guidelines (e.g., ACM Code of Ethics and Professional Conduct) in your work.  *
+
+### 1. Why
 
 ## Requirements and Design
 *You translate (non-functional) requirements to extend existing (architectural) designs and can validate them using multiple types of test techniques.*
 
 *Multipletypes of test techniques: You apply user acceptance testing and stakeholder feedback to validate the quality of the requirements. You evaluate the quality of the design (e.g., by testing or prototyping) taking into account the formulated quality properties like security and performance.*
 
-### Individual project
+### 2. Individual project
 Using the func
 
 ## Business processes
