@@ -121,6 +121,15 @@ I researched how to make a self-hosted runner. In my research I pointed out the 
 
 ### 1. Why
 
+Understanding cultural differences is very important to avoid misunderstandings. Ignorance about cultural differences can result in unintentionaly insulting a team member. It can also cause a lack of clarity on agreements, because of different work habits. Being aware of ethics is important, because you are responible for your finished product. It means that you can be held accountable for ethical violations. 
+
+### 2. Cultural differences
+
+### 3. Ethics
+
+ACM Avoid harm to others.
+Server jobs.
+
 ## Requirements and Design
 *You translate (non-functional) requirements to extend existing (architectural) designs and can validate them using multiple types of test techniques.*
 
