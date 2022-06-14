@@ -108,6 +108,15 @@ For both front and backend in my individual project and the group project I use 
 ### 2. Self-hosted runner
 I researched how to make a self-hosted runner. In my research I pointed out the advantages of a self-hosted runner. Most importantly being not having to wait for the workflow to be executed. The biggest challenge was setting up the mysql server. The standard git runner is an ubuntu machine, so I had to change the mysql setup from linux to windows.
 
+## Cultural differences and ethics
+*You recognize and take into account cultural differences when working with multi-site teams and are aware of ethical aspects in software development.*
+
+*Recognize:  Recognition is based on theoretically substantiated awareness of cultural differences and ethical aspects in software engineering.*
+
+*Take into account:
+Adapt your communication, working, and behavior styles to work with other developers from different cultures; 
+Address one of the standard Programming Ethical Guidelines (e.g., ACM Code of Ethics and Professional Conduct) in your work.  *
+
 ## Requirements and Design
 *You translate (non-functional) requirements to extend existing (architectural) designs and can validate them using multiple types of test techniques.*
 
