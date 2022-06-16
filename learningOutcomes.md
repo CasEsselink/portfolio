@@ -119,7 +119,7 @@ I researched how to make a self-hosted runner. In my research I pointed out the 
 Like earlier mentioned, I used sonacloud to anlyse my code. I made it run on every merge and push on the main branch, like the rest of my ci/cd pipeline.
 
 ### 4. Docker
-In my workflow I included docker. Everytime the workflow runs, it makes a image and saves it to hub.docker. From there anybody can pull the image. The frontend of my project you can take from there and run it as an container, but the back end has a problem. The mysql url from the docker mysql image is different, than the localhost url that I need to run my tests. So add this point I need to choose between the localhost url for tests or the docker internal link for delivery. This can be fixed by setting up an mysql server.
+In my workflow I included docker. Everytime the workflow runs, it makes a image and saves it to hub.docker. From there anybody can pull the image. The frontend of my project you can take from there and run it as an container, but the back end has a problem. The mysql url from the docker mysql image is different, than the localhost url that I need to run my tests. So add this point I need to choose between the localhost url for tests or the docker internal link for delivery. This can be fixed by setting up an mysql server. A solution for this could be an global database. In that case you won't need the mysql docker image. Another solution could be deploying the mysql image in the workflow. 
 
 ## Cultural differences and ethics
 *You recognize and take into account cultural differences when working with multi-site teams and are aware of ethical aspects in software development.*
