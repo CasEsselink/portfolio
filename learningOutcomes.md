@@ -22,6 +22,8 @@ For my individual project I made a vue front-end and a springboot back-end. I us
 
 The link to my individual project: https://github.com/S3Puzzle
 
+### 5. Design
+
 ## Software quality
 *You use software tooling and methodology that continuously monitors and improve the software quality during software development.*
 
@@ -77,7 +79,7 @@ jobs:
       
 ### 4. Code analyses
 
-I decided on using sonarcloud for my code analyses. This was one of the recommened sites on canvas. I choose this one instead of sonarqub, because sonarcloud gave me the option to import my git repositories for free. 
+I decided on using sonarcloud for my code analyses. This was one of the recommened sites on canvas. I choose this one instead of sonarqub, because sonarcloud gave me the option to import my git repositories for free.
 
 ## Agile method
 *You choose and implement the most suitable agile software development method for your software project.*
@@ -112,6 +114,12 @@ For both front and backend in my individual project and the group project I use 
 
 ### 2. Self-hosted runner
 I researched how to make a self-hosted runner. In my research I pointed out the advantages of a self-hosted runner. Most importantly being not having to wait for the workflow to be executed. The biggest challenge was setting up the mysql server. The standard git runner is an ubuntu machine, so I had to change the mysql setup from linux to windows.
+
+### 3. Code analyses
+Like earlier mentioned, I used sonacloud to anlyse my code. I made it run on every merge and push on the main branch, like the rest of my ci/cd pipeline.
+
+### 4. Docker
+In my workflow I included docker. Everytime the workflow runs, it makes a image and saves it to hub.docker. From there anybody can pull the image. The frontend of my project you can take from there and run it as an container, but the back end has a problem. The mysql url from the docker mysql image is different, than the localhost url that I need to run my tests. So add this point I need to choose between the localhost url for tests or the docker internal link for delivery. This can be fixed by setting up an mysql server.
 
 ## Cultural differences and ethics
 *You recognize and take into account cultural differences when working with multi-site teams and are aware of ethical aspects in software development.*
