@@ -74,6 +74,11 @@ jobs:
       run: mvn clean install
     - name: Test with Maven
       run: mvn -B test 
+      
+### 4. Code analyses
+
+I decided on using sonarcloud for my code analyses. This was one of the recommened sites on canvas. I choose this one instead of sonarqub, because sonarcloud gave me the option to import my git repositories for free. 
+
 ## Agile method
 *You choose and implement the most suitable agile software development method for your software project.*
 
@@ -101,9 +106,6 @@ For my individual project I use github project. This is a lot simpler tool than 
 *You design and implement a (semi)automated software release process that matches the needs of the project context.*
 
 *Design and implement: You design a release process and implement a continuous integration and deployment solution (using e.g. Gitlab CI and Docker).*
-
-### 2. Code analyses
-I decided on using sonarcloud for my code analyses. This was one of the recommened sites on canvas. I choose this one instead of sonarqub, because sonarcloud gave me the option to import my git repositories for free. 
 
 ### 1. Github actions
 For both front and backend in my individual project and the group project I use github actions. For the backend it is a maven workflow. In the frontend I use nodejs. These workflows get run when there is a push request or an merge with the main branch. First they install dependencies and build the project, then the test get preformed. 
