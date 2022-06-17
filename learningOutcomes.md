@@ -183,9 +183,9 @@ Using the func
 ### 1. Why
 A business processes is a tool that can help you, when making a project. With every action there is the original path and the path we are planning to make. By visualising them we can see, if are path is even better and simpler. By making a business processes, it is clear how the original process worked and how you are going to improve it with your software. You can easily identify the best way to convert the original process to software. 
 
-### 2. 
+### 2. Ordering
 ![image](https://user-images.githubusercontent.com/49039524/174289814-474938d3-7ef1-4c84-aec7-c3355fddc63c.png)
-
+ 
 
 
 ## Professional
