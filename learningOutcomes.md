@@ -160,9 +160,7 @@ Understanding cultural differences is very important to avoid misunderstandings.
 ### 2. Cultural differences
 
 ### 3. Ethics
-
-ACM Avoid harm to others.
-Server jobs.
+For the group project we make an application to order in restaurants. This could potentionly cost a part of the waiters their job. This could financially harm them, this would by against the AMC Code of Ethics to avoid to harm others. While you could interpreted is as this, I believe this is not the case. First of all does the app not replace waiters entirely. Food still needs to be brougt to the tables and because people can order faster, this is more work. So I believe that in most cases, the workload would just from taking orders to other responiblities, which in turn make the whole business more efficient. I also believe that our project contributes to society and human well-being. It saves the customer, everytime they come to eat. An order applicaton also makes it very easy to see if there are ingredients, that you have allergies for.
 
 ## Requirements and Design
 *You translate (non-functional) requirements to extend existing (architectural) designs and can validate them using multiple types of test techniques.*
