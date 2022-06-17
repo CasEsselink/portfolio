@@ -177,6 +177,11 @@ Using the func
 
 *Relate: understanding the relationships between the process and software.*
 
+
+
+![image](https://user-images.githubusercontent.com/49039524/174286573-01a74471-938b-49b3-b1b2-736b15db720b.png)
+
+
 ## Professional
 
 *You act in a professional manner during software development and learning.*
