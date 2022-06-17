@@ -178,8 +178,14 @@ Using the func
 *Relate: understanding the relationships between the process and software.*
 
 
-
 ![image](https://user-images.githubusercontent.com/49039524/174286573-01a74471-938b-49b3-b1b2-736b15db720b.png)
+
+### 1. Why
+A business processes is a tool that can help you, when making a project. With every action there is the original path and the path we are planning to make. By visualising them we can see, if are path is even better and simpler. By making a business processes, it is clear how the original process worked and how you are going to improve it with your software. You can easily identify the best way to convert the original process to software. 
+
+### 2. 
+![image](https://user-images.githubusercontent.com/49039524/174289814-474938d3-7ef1-4c84-aec7-c3355fddc63c.png)
+
 
 
 ## Professional
