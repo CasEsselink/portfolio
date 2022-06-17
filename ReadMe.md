@@ -272,3 +272,14 @@ Docker was definitely one of the things I have stuggled the longest with this se
 
 #### Gitrunner
 I researched gitrunners this semester. For my project this semester it was not realy worht the trouble, but that can be different in the future. 
+
+#### DOT framework
+This semester I did a research with the DOT framework for the first time. I started with the youtube tutorials and it seemed a bit overwhelming. After just starting with it was not too bad and I was able to write a nice research.
+
+Research: https://github.com/S3Puzzle/Research
+
+## Conclusion 
+
+GP github: https://github.com/fontys-group3
+IP github: https://github.com/S3Puzzle
+
