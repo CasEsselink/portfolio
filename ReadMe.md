@@ -162,6 +162,7 @@ docker network create leader-net
 docker network connect leader-net mysql_leader
 
 Normaly you would now use "docker pull casesselink/leaderboard-service", but I will use this inside the project folder:
+
 mvn clean install
 
 docker build . -t leader-service 
