@@ -250,7 +250,12 @@ Communication between group members like reporting you will be absent was done i
 ### 5. New knowledge and skills
 For both the gp and ip I had to learn a lot new skills. We had a lot of freedom so I tried a lot of new things. I also don't have much of an ict background, so a lot is new for me. Here are some practical skills I learned this semester:
 
-#### Springboot
+#### Spring boot
+This I used for both gp and ip. I did have some java experience (tu programming course), but I never worked with spring boot or distrubuted systems. JPA was also new for me. Last semester we used an orm called ktorm and this was the only experience I had with databases. JPA was completly different, but very easy to use. This was the first time for me making an API, I always taught it was very complicated. but it was easy to pick up. 
 
+#### Github action 
+I never used it before and it started easy, but during the semester I have spend quite sometime solving problems with github actions. Setting up the mysql was quite challenging. It works for test and it is very convenient to instantly see bugs. This skill will certainly save more time in the futere than that it cost to learn. 
 
+#### Mock mvc
+For both my ip and gp I wrote unit tests and integration tests. Unit tests I had written before, but integration tests were new. It costs some time to get the mock mvc working, but it tests a lot more than just unit tests.
 
