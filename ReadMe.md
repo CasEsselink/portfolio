@@ -213,6 +213,9 @@ For the group project we make an application to order in restaurants. This could
 
 *Multipletypes of test techniques: You apply user acceptance testing and stakeholder feedback to validate the quality of the requirements. You evaluate the quality of the design (e.g., by testing or prototyping) taking into account the formulated quality properties like security and performance.*
 
+### 1. Why
+
+
 ### 2. Individual project
 Using the func
 
