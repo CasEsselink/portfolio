@@ -235,3 +235,13 @@ When you want the pay using our software, you get the bill on the website and yo
 
 *You  independently recognize and decide where your knowledge falls short to solve a software problem and  communicate which new knowledge and skills you need to learn.*
 
+### 1. Why
+It is essential that everybody acts professional to function as groep. If people fail to honour agreements it is way harder to make progress. Keeping track of work progress and communication are also important in making sure thing get done. People need to be independent in recognizing an deciding what to learn and to do. Doing this makes sure, that you are up to date on the project and know what is going on.
+
+### 2. Cooperation contract
+We set this up as a group with agreements that applied for this semester. These agreements were mostly regarding attendance. Being late or absent without reason or without indicating the day before was punished by a strike. After receiving 3 strikes the teacher was informed. There were giving some strikes, mostly for people that overslept, but no one got 3 strikes in a sprint. 
+
+### 3. Attendance 
+Early in the semester was absent a number of times. These were with a reason and mostly indicated the day before. So I did not receive strikes for them, but it was still inconvenient. Luckly I haven't been sick since and I have been present for almost every day after the first weeks.
+
+
