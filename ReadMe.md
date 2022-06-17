@@ -140,10 +140,14 @@ I added a step in my workflow to build and push to hub.docker.
 The docker repository is casesselink/s3frontend. So you can pull the image from there and then build it on your machine.
 
 docker pull casesselink/s3frontend
+
 ![image](https://user-images.githubusercontent.com/49039524/174300391-adb90dee-ddec-468e-8ba7-ee3f10d508c2.png)
+
 ![image](https://user-images.githubusercontent.com/49039524/174300485-bf6fabd4-e51f-4b5c-9ef9-e136ffdee3b8.png)
+
 ![image](https://user-images.githubusercontent.com/49039524/174300508-4dedcafd-457e-4aaf-9a04-cd5148eb22e3.png)
 
+The container hosts the site on 8080 so I cast it to my localhost:3000.
 
 Frontend git: https://github.com/S3Puzzle/S3Frontend
 
