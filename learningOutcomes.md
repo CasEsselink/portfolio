@@ -118,7 +118,7 @@ I researched how to make a self-hosted runner. In my research I pointed out the 
 ### 3. Code analyses
 Like earlier mentioned, I used sonacloud to anlyse my code. I made it run on every merge and push on the main branch, like the rest of my ci/cd pipeline.
 
-### 4. Docker fronend
+### 4. Docker frontend
 I added a step in my workflow to build and push to hub.docker. 
 '''
 
@@ -138,6 +138,9 @@ I added a step in my workflow to build and push to hub.docker.
         tags: casesselink/s3puzzle:latest
         
 The docker repository is casesselink/s3puzzle. So you can pull the image from there and then build it on your machine.
+
+### Docker backend
+In the backend I also push and build an image to hub.docker, but because of mysql they can't be ran. The tests in git action need the localhost url to work and the mysql docker container need the docker.host.internal url. I have spend a lot of time exploring options to fix it,  but I can't find a way to make one of them use a diffent url. I have thougt about using an different url for both of them, but I don't have the means te do this right now. I decided to keep the localhost url, making the docker image non-functional. To show that I do know how to build a container for my service using the docker mysql image, I will demonstraded with a modified version of my backend.
 
 ## Cultural differences and ethics
 *You recognize and take into account cultural differences when working with multi-site teams and are aware of ethical aspects in software development.*
