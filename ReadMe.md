@@ -244,4 +244,9 @@ We set this up as a group with agreements that applied for this semester. These 
 ### 3. Attendance 
 Early in the semester was absent a number of times. These were with a reason and mostly indicated the day before. So I did not receive strikes for them, but it was still inconvenient. Luckly I haven't been sick since and I have been present for almost every day after the first weeks.
 
+### 4. Communication
+Communication between group members like reporting you will be absent was done in discord. This was going mostly great. Communication with teachers and product owners was done in teams and mail. This was a bit chaotic at times, but it got better during the semester. When we were working at school, I think our communiction was great. There was a lot of cooperation and there got a lot done. When we were working online, we had a discord call. People would sit all day in call and if you had questions you could ask them. This worked great.
+
+### 5. New knowledge and skills
+For both the gp and ip I had to learn a lot new skills. 
 
