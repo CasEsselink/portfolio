@@ -87,10 +87,27 @@ I decided on using sonarcloud for my code analyses. This was one of the recommen
 *Choose :You are aware of the most popular agile methods and their underlying agile principles. Your choice of a method is motivated and based on well-defined selection criteria and context analyses.*
 
 ### 1. Why
-An agile software development method helps to keep track of the project. It makes it clear what has been done and what still needs to be done. In a group it also helps knowing who is doing what. This makes it so that you always know, who is responseble for a certain part of the project. This is convenient to check that everyone is doing their job, but also to know who you need to ask if you don't understand a part of the project. Because of the sprints the feedback loop with the product owners is shorter and this makes for a highter quality product. 
+An agile software development method helps to keep track of the project. It makes it clear what has been done and what still needs to be done. In a group it also helps knowing who is doing what. This makes it so that you always know, who is responseble for a certain part of the project. This is convenient to check that everyone is doing their job, but also to know who you need to ask if you don't understand a part of the project. Agile methods help make the feedback loop with the product owners shorter and this makes for a highter quality product. 
 
-### 2. Scrum
+### 2. Methods
+There are a lot of different agile methods. We use scrum, I will list a few of the most populair alternatives and there characteristics.
 
+#### Extreme Programming
+With extrme programming you work in pairs. One does the coding and the other one observes. They often switch. By making someone only focus on observing, you get an very high quality product. Which makes it ideal for project with a high technical risk.
+
+#### Kaban
+Instead of using a sprint of 2 or 3 weeks, kaban is based delivering continuously. Using a kaban board the process gets visualized. It is used to look ahead and spot potential bottlenecks and fix these. This way it manages flow. Kaban is based around the goal of a smooth flow of work.
+
+#### Dynamic Software Development Method
+This method focuses on frequent delivery. It focusses on delivering high quality work, reliably and on time. There is constant feedback from the customer on the product. It works with a team where everybody has his one role.
+
+#### Scrum
+Scrum is the method we are using and it revolves around sprints. These sprints are usually 2 or 3 weeks long. The overall product is broken down in smaller features(user stories). Every sprint sprint some user stories get assigned and delivered at the end of the sprint. Other characteristics of scrum are daily standups, sprint reviews, a demo for the product owner and a retrospective. During the standup team members tell the team, what they did last time and what they are going to do today. During a retrospective the team looks back at last sprint to see what was good and what could have been better.
+
+(https://www.agilebusiness.org/page/whatisdsdm)
+(https://www.digite.com/kanban/what-is-kanban/)
+(https://www.jigsawacademy.com/blogs/product-management/types-of-agile-methodology/#:~:text=The%20agile%20method%20is%20an,thereby%20encouraging%20flexibility%20to%20changes.)
+(https://www.digite.com/agile/agile-methodology/#agile-methodology)
 
 ### 3. Jira board
 In our group project we use jira to manage out project. At the start of our project we wrote userstories, based on the requirements from the project owners. We put there userstories on our backlog. On the beginning of every sprint we choose which userstories to implement that sprint. To help us to choose the right userstories we use storypoints. When we agree on the storypoint and the userstories we want to implement, we start the sprint. Then we divide the userstories between us. The userstories themselve we divide in to issues. We start working on the issues and log time spent on these issues. After all isseus are done a userstory is done. 
