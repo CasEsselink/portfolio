@@ -185,7 +185,8 @@ A business processes is a tool that can help you, when making a project. With ev
 
 ### 2. Ordering
 ![image](https://user-images.githubusercontent.com/49039524/174289814-474938d3-7ef1-4c84-aec7-c3355fddc63c.png)
- 
+In the original situation a customer decides on what to order. When a waiter comes the customer gives the order and the waiter gets the drink order to the bar and the food order to the kitchen. In our version the customer can directly order and teh order gets automaticly split between the bar and the kitchen. 
+
 
 
 ## Professional
