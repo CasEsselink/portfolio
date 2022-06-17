@@ -121,8 +121,6 @@ Like earlier mentioned, I used sonacloud to anlyse my code. I made it run on eve
 ### 4. Docker frontend
 I added a step in my workflow to build and push to hub.docker. 
 
-'''
-
     - name: Set up QEMU
       uses: docker/setup-qemu-action@v2
     - name: Set up Docker Buildx
