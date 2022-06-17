@@ -269,3 +269,6 @@ I have mentioned it already in this portfolio, but I used sonarcloud to analyse 
 
 #### Docker
 Docker was definitely one of the things I have stuggled the longest with this semester. Setting it up for my frontend was easy, but because of mysql the backend wouldn't work. For now I have worked around it. Except for that, I think docker is an amazing tool. It makes gettting your code to a larger definitely very easy and fast. It will be a very usefull skill in the future.
+
+#### Gitrunner
+I researched gitrunners this semester. For my project this semester it was not realy worht the trouble, but that can be different in the future. 
