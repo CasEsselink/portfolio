@@ -248,9 +248,9 @@ Early in the semester was absent a number of times. These were with a reason and
 Communication between group members like reporting you will be absent was done in discord. This was going mostly great. Communication with teachers and product owners was done in teams and mail. This was a bit chaotic at times, but it got better during the semester. When we were working at school, I think our communiction was great. There was a lot of cooperation and there got a lot done. When we were working online, we had a discord call. People would sit all day in call and if you had questions you could ask them. This worked great.
 
 ### 5. New knowledge and skills
-For both the gp and ip I had to learn a lot new skills.
+For both the gp and ip I had to learn a lot new skills. We had a lot of freedom so I tried a lot of new things. I also don't have much of an ict background, so a lot is new for me. Here are some practical skills I learned this semester:
 
-Both:
+#### Springboot
 
 
 
