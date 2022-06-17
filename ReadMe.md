@@ -259,3 +259,13 @@ I never used it before and it started easy, but during the semester I have spend
 #### Mock mvc
 For both my ip and gp I wrote unit tests and integration tests. Unit tests I had written before, but integration tests were new. It costs some time to get the mock mvc working, but it tests a lot more than just unit tests.
 
+#### Vue
+For my ip frontend I used vue. I never used vue or javascript so I had a lot to learn. I learned to make a simple page and even used router for multiple pages. I used axios to acces the API. I made a google login using firebase, which was also new to me. 
+
+#### React
+
+#### Sonarcloud
+I have mentioned it already in this portfolio, but I used sonarcloud to analyse my code. I never used a code analyser before and was suprised how convenient it was. 
+
+#### Docker
+Docker was definitely one of the things I have stuggled the longest with this semester. Setting it up for my frontend was easy, but because of mysql the backend wouldn't work. For now I have worked around it. Except for that, I think docker is an amazing tool. It makes gettting your code to a larger definitely very easy and fast. It will be a very usefull skill in the future.
