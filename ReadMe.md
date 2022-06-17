@@ -154,6 +154,22 @@ Frontend git: https://github.com/S3Puzzle/S3Frontend
 ### Docker backend
 In the backend I also push and build an image to hub.docker, but because of mysql they can't be ran. The tests in git action need the localhost url to work and the mysql docker container need the docker.host.internal url. I have spend a lot of time exploring options to fix it,  but I can't find a way to make one of them use a diffent url. I have thougt about using an different url for both of them, but I don't have the means te do this right now. I decided to keep the localhost url, making the docker image non-functional. To show that I do know how to build a container for my service using the docker mysql image, I will demonstraded with a modified version of my backend.
 
+The commands to make the mysql container and link it to the network:
+docker run -p 3307:3306  --name mysql_leader -e MYSQL_ROOT_PASSWORD=root -e MYSQL_DATABASE=leader  mysql
+
+docker network create leader-net
+
+docker network connect leader-net mysql_leader
+
+Normaly you would now use "docker pull casesselink/leaderboard-service", but I will use this inside the project folder:
+mvn clean install
+
+docker build . -t leader-service 
+
+![image](https://user-images.githubusercontent.com/49039524/174301607-4dcfe179-45f7-4aac-b045-b54945f1622f.png)
+
+Leaderboard git: https://github.com/S3Puzzle/Leaderboard-service (in application.properties jdbc:mysql://localhost/leaderboard is replaced by jdbc:mysql://docker.host.internal:3307/leader for demo)
+
 ## Cultural differences and ethics
 *You recognize and take into account cultural differences when working with multi-site teams and are aware of ethical aspects in software development.*
 
