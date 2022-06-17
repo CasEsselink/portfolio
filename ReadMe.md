@@ -1,5 +1,5 @@
 # Learning Outcomes
-In this file I will indicate where and how I have worked on the GP learning outcomes.
+In this file I will indicate where and how I have worked on the learning outcomes. I will for every learning outcome explain the importance of the learning outcome. After that I will go through everything I did this semester relating to the learning outcome.
 
 ## Web application
 *You design and build user-friendly, full-stack web applications.*
@@ -188,7 +188,15 @@ A business processes is a tool that can help you, when making a project. With ev
 
 In the original situation a customer decides on what to order. When a waiter comes the customer gives the order and the waiter gets the drink order to the bar and the food order to the kitchen. In our version the customer can directly order and teh order gets automaticly split between the bar and the kitchen. 
 
+### 3. Preparing
+![image](https://user-images.githubusercontent.com/49039524/174296605-c7318b40-b0ee-4921-bbd6-180f5b49afd4.png)
 
+Without the use of our software an staff member needs to claim a order take on order on them, with a post it note for example. The orders per table also need to be documented somewhere to keep track of the bill. Our software does this automatic, you just have to claim an order in the tool and can check it off when you are done preparing it. 
+
+### 4. Payment
+![image](https://user-images.githubusercontent.com/49039524/174297116-0ceae246-3b35-49b9-bb45-52abdda701f2.png)
+
+When you want the pay using our software, you get the bill on the website and you can pay it digitaly. Without our software you need to ask a waiter to bring you the bill then they need to bring either a pin machine or change. After that they need to print your receipt.
 
 ## Professional
 
