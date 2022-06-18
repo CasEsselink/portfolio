@@ -4,8 +4,11 @@ In this file I will indicate where and how I have worked on the learning outcome
 ## Table of contents
 Group project:
  - [Web application](#Web-application)
- - [Agile method](Agile-method)
- - [Cultural differences and ethics]
+ - [Agile method](#Agile-method)
+ - [Cultural differences and ethics](#Cultural-differences-and-ethics)
+ - [Requirements and Design](#Requirements-and-Design)
+ - [Business processes](#Business-processes)
+ - [Professional](#Professional)
 
 
  - [Web application](#Web-application)
