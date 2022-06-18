@@ -12,6 +12,9 @@ Group project:
 
 Individual project:
  - [Web application](#Web-application)
+ - [Software quality](#Software-quality)
+ - [CI/CD](#CI/CD)
+ - [Professional](#Professional)
 
 ## Web application
 *You design and build user-friendly, full-stack web applications.*
