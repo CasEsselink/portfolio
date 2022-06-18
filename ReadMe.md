@@ -2,8 +2,12 @@
 In this file I will indicate where and how I have worked on the learning outcomes. I will for every learning outcome explain the importance of the learning outcome. After that I will go through everything I did this semester relating to the learning outcome.
 
 ## Table of contents
+Group project:
  - [Web application](#Web-application)
+ - [Agile method](Agile-method)
 
+
+ - [Web application](#Web-application)
 
 ## Web application
 *You design and build user-friendly, full-stack web applications.*
