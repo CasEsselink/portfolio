@@ -110,7 +110,7 @@ Scrum is the method we are using and it revolves around sprints. These sprints a
 (https://www.digite.com/agile/agile-methodology/#agile-methodology)
 
 ### 3. Jira board
-In our group project we use jira to manage out project. At the start of our project we wrote userstories, based on the requirements from the project owners. We put there userstories on our backlog. On the beginning of every sprint we choose which userstories to implement that sprint. To help us to choose the right userstories we use storypoints. When we agree on the storypoint and the userstories we want to implement, we start the sprint. Then we divide the userstories between us. The userstories themselve we divide in to issues. We start working on the issues and log time spent on these issues. After all isseus are done a userstory is done. 
+In our group project we use jira to manage out project. At the start of our project we wrote user stories, based on the requirements from the project owners. We put there user stories on our backlog. On the beginning of every sprint we choose which user stories to implement that sprint. To help us to choose the right user stories we use storypoints. When we agree on the storypoint and the user stories we want to implement, we start the sprint. Then we divide the user stories between us. The user stories themselve we divide in to issues. We start working on the issues and log time spent on these issues. After all isseus are done a user story is done. 
 ![image](https://user-images.githubusercontent.com/49039524/165054590-5130bf44-fabf-4e46-b0d3-973da6ba87f2.png)
 
 ### 4. Standup and standdown
@@ -118,7 +118,7 @@ Every day we have a standup and standdown. I was the scrum master for the second
 ![image](https://user-images.githubusercontent.com/49039524/165056092-7166df38-28a6-42f5-bf84-232974fa8c31.png)
 
 ### 5. Github project
-For my individual project I use github project. This is a lot simpler tool than jira. This is convinient for a individual project. It has a backlog that I filled with userstories. I assign this userstories to git repositories. When I start working on them I place them in "In Progress". When they are completed, they are placed in "Done".
+For my individual project I use github project. This is a lot simpler tool than jira. This is convinient for a individual project. It has a backlog that I filled with user stories. I assign this user stories to git repositories. When I start working on them I place them in "In Progress". When they are completed, they are placed in "Done".
 ![image](https://user-images.githubusercontent.com/49039524/168060287-7cebad44-e5fa-4004-8171-a7beb337815d.png)
 
 ## CI/CD
@@ -214,10 +214,16 @@ For the group project we make an application to order in restaurants. This could
 *Multipletypes of test techniques: You apply user acceptance testing and stakeholder feedback to validate the quality of the requirements. You evaluate the quality of the design (e.g., by testing or prototyping) taking into account the formulated quality properties like security and performance.*
 
 ### 1. Why
+Translating requirements to design is an important first step in creating a product. Making a design gives you the change to get stakeholder feedback early on. This makes sure that the project is headed in the direction the stakeholder intends. Using disigns to tak into account things like security and performance, makes sure that the endproduct is functional for its intended use.
 
+### 2. User stories
+After receiving the case for our project, we started making user stories. After getting feedback on them and implementing that feedback, we added the user stories to our jira backlog. At the start off every sprint we and the product owners agreed on the user stories for the next sprint. We would start working on them. For every user story we write tests. We only consider an user story ready for delivery after passing those tests. If an user story passed all the test, we would demo it to the product owners. They would give feedback and we would implement it. 
 
-### 2. Individual project
-Using the func
+### architectural
+
+Jira: https://s3groupproject.atlassian.net/jira/software/projects/SP/boards/1
+
+Restaurant Order System Documentation: https://github.com/fontys-group3
 
 ## Business processes
 *You can explain simple business processes and relate them to the development of your software project.*
