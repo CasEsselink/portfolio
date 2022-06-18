@@ -234,7 +234,10 @@ Translating requirements to design is an important first step in creating a prod
 ### 2. User stories
 After receiving the case for our project, we started making user stories. After getting feedback on them and implementing that feedback, we added the user stories to our jira backlog. At the start off every sprint we and the product owners agreed on the user stories for the next sprint. We would start working on them. For every user story we write tests. We only consider an user story ready for delivery after passing those tests. If an user story passed all the test, we would demo it to the product owners. They would give feedback and we would implement it. 
 
-### architectural
+### Architecture
+Based on our user stories we designed an architecture for our project. In this model we specified a lot of technical details. Like how many web applications and micro servers we were going to use. Where those were responseble for and how we were going to connect them. 
+![image](https://user-images.githubusercontent.com/49039524/174452301-237b57e3-7e24-4b66-b4e7-0dcc4d6bbfef.png)
+
 
 Jira: https://s3groupproject.atlassian.net/jira/software/projects/SP/boards/1
 
