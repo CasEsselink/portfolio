@@ -235,10 +235,13 @@ Translating requirements to design is an important first step in creating a prod
 After receiving the case for our project, we started making user stories. After getting feedback on them and implementing that feedback, we added the user stories to our jira backlog. At the start off every sprint we and the product owners agreed on the user stories for the next sprint. We would start working on them. For every user story we write tests. We only consider an user story ready for delivery after passing those tests. If an user story passed all the test, we would demo it to the product owners. They would give feedback and we would implement it. 
 
 ### Architecture
-Based on our user stories we designed an architecture for our project. In this model we specified a lot of technical details. Like how many web applications and micro servers we were going to use. Where those were responseble for and how we were going to connect them. 
+Based on our user stories we designed an architecture for our project. In this model we specified a lot of technical details. Like how many web applications and micro servers we were going to use. Where those were responseble for and how we were going to connect them. We had multiple version that we changed based on feedback from the product owners. This is our final version. 
 ![image](https://user-images.githubusercontent.com/49039524/174452301-237b57e3-7e24-4b66-b4e7-0dcc4d6bbfef.png)
 
+Like you can see there are 3 micro service and 3 web applicatons, they are connected with rest calls and websockets. The management server is not connect for now. We were planning to connect it by sending rest calls from "Web appicatie Personeel" to the management service. Sadly we weren't able to discuss this with the product owners before the end of the semester.
 
+### Security and Performance
+There were a few issues regarding security in this project. One was deleting your cookies to avoid payment. Our solution was to save the cookies in the backend, but this is not yet implemented. The other issue was people accesing the ordering website from outside the restaurant. An easy fix would be to check the ip-adress, but we don't want to force people to use the restaurant wifi. We tried to find other solutions, but we couldn't find a solution that suits our needs.
 Jira: https://s3groupproject.atlassian.net/jira/software/projects/SP/boards/1
 
 Restaurant Order System Documentation: https://github.com/fontys-group3
