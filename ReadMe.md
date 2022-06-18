@@ -10,7 +10,7 @@ Group project:
  - [Business processes](#Business-processes)
  - [Professional](#Professional)
 
-
+Individual project:
  - [Web application](#Web-application)
 
 ## Web application
