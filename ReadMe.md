@@ -310,6 +310,7 @@ For both my ip and gp I wrote unit tests and integration tests. Unit tests I had
 For my ip frontend I used vue. I never used vue or javascript so I had a lot to learn. I learned to make a simple page and even used router for multiple pages. I used axios to acces the API. I made a google login using firebase, which was also new to me. 
 
 #### React
+In the gp I did mostly backend, but in the end I did make react application. We were in need for a view for the management tool and because I didn't make a react project yet, I decided to make it. I used axios like in vue, but in a simpler fashion. I just display a list of object form an api request as a table. 
 
 #### Sonarcloud
 I have mentioned it already in this portfolio, but I used sonarcloud to analyse my code. I never used a code analyser before and was suprised how convenient it was. 
