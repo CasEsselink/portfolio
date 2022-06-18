@@ -13,7 +13,7 @@ Group project:
 Individual project:
  - [Web application](#Web-application)
  - [Software quality](#Software-quality)
- - [CI/CD](#CI/CD)
+ - [CI/CD](#CICD)
  - [Professional](#Professional)
 
 ## Web application
