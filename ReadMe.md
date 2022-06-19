@@ -39,7 +39,7 @@ As told earlier, was I responseble for the connecting between the shopping kart 
 The spring boot service I made: https://github.com/fontys-group3/bestel-service
 
 ### 4. Individual project
-For my individual project I made a vue front-end and a springboot back-end. I used vue with javascript and uses axios to connect to the back-end. This connection is made with Rest calls. The springboot servers are made with java. I have multiple servers, that all use there own mysql database. The connection to the is made with hibernate as on orm. I used usability testing to ensure that my web application is user-friendly. 
+For my individual project I made a vue front-end and a springboot back-end. I used vue with javascript and uses axios to connect to the back-end. This connection is made with Rest calls. The springboot services are made with java. I have multiple services, that all use there own mysql database. The connection to the database is made with hibernate as on orm. I used usability testing to ensure that my web application is user-friendly. 
 
 The link to my individual project: https://github.com/S3Puzzle
 
