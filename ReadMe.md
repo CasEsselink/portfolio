@@ -43,6 +43,7 @@ The link to my individual project: https://github.com/S3Puzzle
 
 ![image](https://user-images.githubusercontent.com/49039524/174486078-a4482e9b-6779-4c2f-aaa0-ee94be6a840d.png)
 
+In the readme of my individual project. I explain how my application works.(https://github.com/S3Puzzle)
 
 ## Software quality
 *You use software tooling and methodology that continuously monitors and improve the software quality during software development.*
