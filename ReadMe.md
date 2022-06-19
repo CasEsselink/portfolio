@@ -1,5 +1,7 @@
 # Learning Outcomes
+```ts
 In this file I will indicate where and how I have worked on the learning outcomes. I will for every learning outcome explain the importance of the learning outcome. After that I will go through everything I did this semester relating to the learning outcome.
+```
 
 ## Table of contents
 Group project:
