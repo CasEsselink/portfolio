@@ -61,12 +61,10 @@ Software quality is an important aspect of coding. If you neglect sofware qualit
 ### 2. Unit and integration tests
 In both the group project and in my individual project, I have made unit tests. I made these to regularly test the quality of my software. I also made integration tests for both. These run bigger parts of my project and test the connection between smaller units. For my integration test I used a mockmvc to mimic the frontend making api calls. I make sure the returns of these calls are correct.
 
-These are my tests for the servers of my individual project: https://github.com/S3Puzzle/Leaderboard-service/tree/main/src/test/java/com/cas/leaderboard
+These are my tests for the servers of my individual project: [Leaderboard](https://github.com/S3Puzzle/Leaderboard-service/tree/main/src/test/java/com/cas/leaderboard) and [Name ](https://github.com/S3Puzzle/Name-service/tree/main/src/test/java/com/cas/name)
 
-https://github.com/S3Puzzle/Name-service/tree/main/src/test/java/com/cas/name
-
-Tests I wrote for the group project: https://github.com/fontys-group3/bestel-service/tree/main/src/test/java/com/groep3/bestel/tests
-
+[The group project tests I wrote](https://github.com/fontys-group3/bestel-service/tree/main/src/test/java/com/groep3/bestel/tests
+)
 ### 3. Automating tests 
 I made a maven workflow in github. This workflow build the application and runs the tests on each push and merge on the main branch. This is the workflow I made for one of the repositories in my personal project:
 
@@ -199,7 +197,7 @@ docker pull casesselink/s3frontend
 
 The container hosts the site on 8080 so I cast it to my localhost:3000.
 
-Frontend git: https://github.com/S3Puzzle/S3Frontend
+[Frontend](https://github.com/S3Puzzle/S3Frontend)
 
 ### Docker backend
 In the backend I also push and build an image to hub.docker, but because of mysql they can't be ran. The tests in git action need the localhost url to work and the mysql docker container need the docker.host.internal url. I have spend a lot of time exploring options to fix it,  but I can't find a way to make one of them use a diffent url. I have thougt about using an different url for both of them, but I don't have the means te do this right now. I decided to keep the localhost url, making the docker image non-functional. To show that I do know how to build a container for my service using the docker mysql image, I will demonstraded with a modified version of my backend.
@@ -220,7 +218,7 @@ docker build . -t leader-service
 
 ![image](https://user-images.githubusercontent.com/49039524/174301607-4dcfe179-45f7-4aac-b045-b54945f1622f.png)
 
-Leaderboard git: https://github.com/S3Puzzle/Leaderboard-service (in application.properties jdbc:mysql://localhost/leaderboard is replaced by jdbc:mysql://docker.host.internal:3307/leader for demo)
+[Leaderboard git](https://github.com/S3Puzzle/Leaderboard-service) (in application.properties jdbc:mysql://localhost/leaderboard is replaced by jdbc:mysql://docker.host.internal:3307/leader for demo)
 
 ## Cultural differences and ethics
 *You recognize and take into account cultural differences when working with multi-site teams and are aware of ethical aspects in software development.*
@@ -294,9 +292,9 @@ Like you can see there are 3 micro service and 3 web applicatons, they are conne
 ### 4. Security and Performance
 There were a few issues regarding security in this project. One was deleting your cookies to avoid payment. Our solution was to save the cookies in the backend, but this is not yet implemented. The other issue was people accesing the ordering website from outside the restaurant. An easy fix would be to check the ip-adress, but we don't want to force people to use the restaurant wifi. We tried to find other solutions, but we couldn't find a solution that suits our needs.
 
-Jira: https://s3groupproject.atlassian.net/jira/software/projects/SP/boards/1
+[Jira](https://s3groupproject.atlassian.net/jira/software/projects/SP/boards/1)
 
-Restaurant Order System Documentation: https://github.com/fontys-group3
+[Restaurant Order System Documentation](https://github.com/fontys-group3)
 
 ## Business processes
 *You can explain simple business processes and relate them to the development of your software project.*
@@ -376,9 +374,9 @@ I researched gitrunners this semester. For my project this semester it was not r
 #### DOT framework
 This semester I did a research with the DOT framework for the first time. I started with the youtube tutorials and it seemed a bit overwhelming. After just starting with it was not too bad and I was able to write a nice research.
 
-Research: https://github.com/S3Puzzle/Research 
+[Research](https://github.com/S3Puzzle/Research )
 
-GP github: https://github.com/fontys-group3
+[GP github](https://github.com/S3Puzzle/Research )
 
-IP github: https://github.com/S3Puzzle
+[IP github](https://github.com/S3Puzzle)
 
