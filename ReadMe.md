@@ -238,18 +238,18 @@ In masculin culture people are more assertive and competitive. People have stron
 #### Long-term orientation vs. short-term orientation (LTO)
 Cultures that focus more on long-term, place higher value on education. They are persisent and obligations are emphasized. People from these cultures are more modest. Cultures that focus on short-term on the other hand, have strong convictions. They sell themselves to be taken seriously. They focus on personal steadiness and stability. China scores very high on this index. They focus more on long term gains. Sierra Leone scores very low. They value short term gains and quick results. The Netherlands score is in the middle. 
 
-#### Indulgence vs. restraint (IND)
-
-
+#### Indulgence vs. restraint (IVR)
+Culture that are high on indulgence are optimistic. They focus on freedom and personal happiness. While cultures that are high on restraint are more pessimistic. They have less freedom and more controll. Russia has a very low score on this index. They have a more controlling gouverment and less freedom. The United States score relatively high. They focus a lot on freedom. The Netherlands also score high on this scale.
 
 (https://en.wikipedia.org/wiki/Hofstede%27s_cultural_dimensions_theory#:~:text=The%20original%20theory%20proposed%20four,orientation%20versus%20person%2Dorientation)
 
 (https://clearlycultural.com/geert-hofstede-cultural-dimensions/)
 
 (https://www.mindtools.com/pages/article/newLDR_66.htm#:~:text=4.,predictable%20and%20controllable%20as%20possible.)
-### 4. Examples of culural differences in my study and life.
+### 4. Examples of cultural differences in my study and life.
+Our group consisted of only dutch speaking member, so there we no real cultural differences in our group. Samuil did give a workshop on cultural differences early in the semester and we discussed a case there. I do have an example of cultural differences from the past. When I did my introduction at tu/e, we had a couple of romanian guys in our group. Romania and the Netherlands differ a lot on most of the Hofstede's cultural dimensions. One that was very apparent, when talking to them was individualism. The individualsm index of the Netherlands is 80, this is a lot more than the 30 Romania has. They told us, that they and a lot of other romanians came to study aboard to better take care of there families. This is very different then in the Netherlands, where most people decide there study based on self interest.
 
-
+(https://www.hofstede-insights.com/country/the-netherlands/)
 (https://www.hofstede-insights.com/country/romania/)
 
 ### 5. Ethics
