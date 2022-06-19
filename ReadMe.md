@@ -221,8 +221,16 @@ Understanding cultural differences is very important to avoid misunderstandings.
 First of all it is important to know what culture is. Culture common practices and behaviour of a group that are past down over generations. An example of culture are traditions and celebrations. Like "Sinterklaas" in the netherlands. Language is often an important difference between cultures. "Gezellig" for example is an important word in dutch culture, but can't be translated to english. These small detail are the reason people often study the culture and language of a country at the same time. Because you need to place them in context to properly understand them.
 
 ### 3. Which are well-known dimensions on cultural differences? 
+According to Hofstede's cultural dimensions theory there are six dimensions on cultural differences. Originaly there were only four, but a fifth and sixth were later added. The original four dimensions were individualism vs collectivism, uncertainty avoidance, power distance and masculinity vs femininity. Long-term orientation vs. short-term orientation was the fifth and indulgence vs. restraint the last.
 
+#### Power distance index (PDI)
+This index measures how easy less powerfull members of a group accept unequel power distribution. The countries that score high on this scale are mainly in southeast asia and south-america. This means that these counties have big differences in power between leaders and followers and this inequality is endorsed by lots in both groups. Austria, Isreal and denmark have the lowest PDI. This means that people are against big differences in power.
 
+### Individualism vs collectivism
+
+ 
+(https://en.wikipedia.org/wiki/Hofstede%27s_cultural_dimensions_theory#:~:text=The%20original%20theory%20proposed%20four,orientation%20versus%20person%2Dorientation)
+(https://clearlycultural.com/geert-hofstede-cultural-dimensions/)
 ### 4. Examples of culural differences in my study and life.
 
 
