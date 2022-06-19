@@ -60,9 +60,9 @@ Software quality is an important aspect of coding. If you neglect sofware qualit
 ### 2. Unit and integration tests
 In both the group project and in my individual project, I have made unit tests. I made these to regularly test the quality of my software. I also made integration tests for both. These run bigger parts of my project and test the connection between smaller units. For my integration test I used a mockmvc to mimic the frontend making api calls. I make sure the returns of these calls are correct.
 
-These are my tests for the servers of my individual project: https://github.com/S3Puzzle/Leaderboard-service/tree/main/src/test/java/com/CasS3/Leaderboard
+These are my tests for the servers of my individual project: https://github.com/S3Puzzle/Leaderboard-service/tree/main/src/test/java/com/cas/leaderboard
 
-https://github.com/S3Puzzle/Name-service/tree/main/src/test/java/com/CasS3/Name
+https://github.com/S3Puzzle/Name-service/tree/main/src/test/java/com/cas/name
 
 Test I wrote for the group project: https://github.com/fontys-group3/bestel-service/tree/main/src/test/java/com/groep3/bestel/tests
 
