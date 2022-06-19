@@ -159,6 +159,8 @@ For my individual project I use github project. This is a lot simpler tool than 
 ### 1. Github actions
 For both front and backend in my individual project and the group project I use github actions. For the backend it is a maven workflow. In the frontend I use nodejs. These workflows get run when there is a push request or an merge with the main branch. First they install dependencies and build the project, then the test get preformed. 
 
+Workflow for: [GP](https://github.com/fontys-group3/bestel-service/blob/main/.github/workflows/maven.yml) [Leaderboard](https://github.com/S3Puzzle/Leaderboard-service/blob/main/.github/workflows/maven.yml) [Name](https://github.com/S3Puzzle/Name-service/blob/main/.github/workflows/maven.yml) [Frontend](https://github.com/S3Puzzle/S3Frontend/blob/main/.github/workflows/node.js.yml)
+
 ### 2. Self-hosted runner
 I researched how to make a self-hosted runner. In my research I pointed out the advantages of a self-hosted runner. Most importantly being not having to wait for the workflow to be executed. The biggest challenge was setting up the mysql server. The standard git runner is an ubuntu machine, so I had to change the mysql setup from linux to windows.
 
