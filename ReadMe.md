@@ -41,7 +41,7 @@ The link to my individual project: https://github.com/S3Puzzle
 
 ### 5. Design
 
-![image](https://user-images.githubusercontent.com/49039524/174485395-541cb678-7198-466e-b363-1b0512bc3d34.png)
+![image](https://user-images.githubusercontent.com/49039524/174486078-a4482e9b-6779-4c2f-aaa0-ee94be6a840d.png)
 
 
 ## Software quality
