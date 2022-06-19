@@ -148,7 +148,7 @@ Every day we have a standup and standdown. I was the scrum master for the second
 ![image](https://user-images.githubusercontent.com/49039524/165056092-7166df38-28a6-42f5-bf84-232974fa8c31.png)
 
 ### 5. Github project
-For my individual project I use github project. This is a lot simpler tool than jira. This is convinient for a individual project. It has a backlog that I filled with user stories. I assign this user stories to git repositories. When I start working on them I place them in "In Progress". When they are completed, they are placed in "Done".
+For my individual project I use github project. This is a lot simpler tool than jira. This is convenient for a individual project. It has a backlog that I filled with user stories. I assign this user stories to git repositories. When I start working on them I place them in "In Progress". When they are completed, they are placed in "Done".
 ![image](https://user-images.githubusercontent.com/49039524/168060287-7cebad44-e5fa-4004-8171-a7beb337815d.png)
 
 ## CI/CD
