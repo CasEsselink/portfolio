@@ -86,7 +86,7 @@ jobs:
       DB_PASSWORD: root
     runs-on: ubuntu-latest
 
- steps:
+ 	steps:
     - uses: actions/checkout@v3
     - name: Set up JDK 11
       uses: actions/setup-java@v3
