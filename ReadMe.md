@@ -232,7 +232,7 @@ docker build . -t leader-service
 *Address one of the standard Programming Ethical Guidelines (e.g., ACM Code of Ethics and Professional Conduct) in your work.  *
 
 ### 1. Why
-Understanding cultural differences is very important to avoid misunderstandings. Ignorance about cultural differences can result in unintentionaly insulting a team member. It can also cause a lack of clarity on agreements, because of different work habits. Being aware of ethics is important, because you are responible for your finished product. It means that you can be held accountable for ethical violations. 
+Understanding cultural differences is very important to avoid misunderstandings. Ignorance about cultural differences can result in unintentionaly insulting a team member. It can lead to a lot of misunderstandigns. It can also cause a lack of clarity on agreements, because of different work habits. Being aware of ethics is also important, because you are responible for your finished product. It means that you can be held accountable for ethical violations. 
 
 ### 2. What is culture? 
 First of all it is important to know what culture is. Culture common practices and behaviour of a group that are past down over generations. An example of culture are traditions and celebrations. Like "Sinterklaas" in the netherlands. Language is often an important difference between cultures. "Gezellig" for example is an important word in dutch culture, but can't be translated to english. These small detail are the reason people often study the culture and language of a country at the same time. Because you need to place them in context to properly understand them.
