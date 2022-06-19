@@ -41,6 +41,9 @@ The link to my individual project: https://github.com/S3Puzzle
 
 ### 5. Design
 
+![image](https://user-images.githubusercontent.com/49039524/174485395-541cb678-7198-466e-b363-1b0512bc3d34.png)
+
+
 ## Software quality
 *You use software tooling and methodology that continuously monitors and improve the software quality during software development.*
 
