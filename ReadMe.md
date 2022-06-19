@@ -164,6 +164,8 @@ Workflow for: [GP](https://github.com/fontys-group3/bestel-service/blob/main/.gi
 ### 2. Self-hosted runner
 I researched how to make a self-hosted runner. In my research I pointed out the advantages of a self-hosted runner. Most importantly being not having to wait for the workflow to be executed. The biggest challenge was setting up the mysql server. The standard git runner is an ubuntu machine, so I had to change the mysql setup from linux to windows.
 
+[Research ](https://github.com/S3Puzzle/Research/blob/main/RunnerResearch.md)
+
 ### 3. Code analyses
 Like earlier mentioned, I used sonacloud to anlyse my code. I made it run on every merge and push on the main branch, like the rest of my ci/cd pipeline.
 
