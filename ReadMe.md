@@ -333,7 +333,7 @@ When you want the pay using our software, you get the bill on the website and yo
 *You  independently recognize and decide where your knowledge falls short to solve a software problem and  communicate which new knowledge and skills you need to learn.*
 
 ### 1. Why
-It is essential that everybody acts professional to function as groep. If people fail to honour agreements it is way harder to make progress. Keeping track of work progress and communication are also important in making sure thing get done. People need to be independent in recognizing an deciding what to learn and to do. Doing this makes sure, that you are up to date on the project and know what is going on.
+It is essential that everybody acts professional to function as groep. If people fail to honour agreements it is way harder to make progress. Keeping track of work progress and communication are also important in making sure thing get done. People need to be independent in recognizing an deciding what to learn and to do. Doing this makes sure, that you are up to date on the project and know what is going on. This also important for an individual project. Deciding to learn new things can open up new possibilities. This how you can avoid getting stuck on a problem.
 
 ### 2. Cooperation contract
 We set this up as a group with agreements that applied for this semester. These agreements were mostly regarding attendance. Being late or absent without reason or without indicating the day before was punished by a strike. After receiving 3 strikes the teacher was informed. There were giving some strikes, mostly for people that overslept, but no one got 3 strikes in a sprint. 
@@ -345,7 +345,7 @@ Early in the semester was absent a number of times. These were with a reason and
 Communication between group members like reporting you will be absent was done in discord. This was going mostly great. Communication with teachers and product owners was done in teams and mail. This was a bit chaotic at times, but it got better during the semester. When we were working at school, I think our communiction was great. There was a lot of cooperation and there got a lot done. When we were working online, we had a discord call. People would sit all day in call and if you had questions you could ask them. This worked great.
 
 ### 5. New knowledge and skills
-For both the gp and ip I had to learn a lot new skills. We had a lot of freedom so I tried a lot of new things. I also don't have much of an ict background, so a lot is new for me. Here are some practical skills I learned this semester:
+For both the gp and ip I had to learn a lot new skills. We had a lot of freedom so I tried a lot of new things. I also don't have much of an ict background, so a lot is new for me. Some of the new skills I learned on my own initiative, other I started learning based on feedback from the teachers. Here are some practical skills I learned this semester:
 
 #### Spring boot
 This I used for both gp and ip. I did have some java experience (tu programming course), but I never worked with spring boot or distrubuted systems. Hibernate was also new for me. Last semester we used an orm called ktorm and this was the only experience I had with databases. Hibernate is very different, but easy to get in to. This was the first time for me making an API, I always taught it was very complicated. but it was easy to pick up. 
