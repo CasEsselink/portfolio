@@ -27,7 +27,7 @@ Individual project:
 Making sure your web application is user friendly, is a way to avoid problems in future. By testing the web application you make sure that there are less problems later on. This saves time and money, because problems get more difficult to fix later on.
 
 ### 2. React
-I learned to make and develop an React application. In our group project we used typescript as our language in React. We used it to make a shopping kart and I was mainly responseble for connecting the shopping cart to the restaurants staff tool. This staff tool is also made using React and typescript. I was personally responseble for making the frontend for the manager tool. The frontend sends a get request to the server and displays the given data in a table. 
+I learned to make and develop an React application. In our group project we used typescript as our language in React. We used it to make a shopping kart and I was mainly responseble for connecting the shopping cart to the restaurants staff tool. This staff tool is also made using React and typescript. I was personally responseble for making the frontend for the manager tool. The frontend sends a get request to the server and displays the returned data in a table. 
 
 ![image](https://user-images.githubusercontent.com/49039524/174483747-976176c3-5947-4973-bf75-096f0e269a14.png)
 
