@@ -224,13 +224,23 @@ First of all it is important to know what culture is. Culture common practices a
 According to Hofstede's cultural dimensions theory there are six dimensions on cultural differences. Originaly there were only four, but a fifth and sixth were later added. The original four dimensions were individualism vs collectivism, uncertainty avoidance, power distance and masculinity vs femininity. Long-term orientation vs. short-term orientation was the fifth and indulgence vs. restraint the last.
 
 #### Power distance index (PDI)
-This index measures how easy less powerfull members of a group accept unequel power distribution. The countries that score high on this scale are mainly in southeast asia and south-america. This means that these counties have big differences in power between leaders and followers and this inequality is endorsed by lots in both groups. Austria, Isreal and denmark have the lowest PDI. This means that people are against big differences in power.
+This index measures how easy less powerfull members of a group accept unequel power distribution. The countries that score high on this scale are mainly in southeast asia and south-america. This means that these counties have big differences in power between leaders and followers and this inequality is endorsed by lots in both groups. Austria, Isreal and denmark have the lowest PDI. This means that people are against big differences in power. The Netherlands score on the lower side at this index.
 
-### Individualism vs collectivism
+#### Individualism vs collectivism (IDV)
+Individualism is focused on taking care of yourself and your direct family. Collectivism is about thinking in interest of the group. This means being loyal to a big group like an extended family. In a collectivism society ties between individuals are closer and looking after each other is very important. Ecuador and Guatemala score very low on this index, meaning they are very collective. The United States on the other hand scores very high, meaning they are very individual. Which is in line with the american dream, that is focused on selfgrowth. The Netherland score also very high on this scale.
 
- 
+#### Uncertainty avoidance (UAI)
+Un certainty avoidance indicates how comfortable people are unstructured situations. Cultures that score high on this scale will have a lot of rules and laws to minimize uncentaint situations. Greece and Portugal score very high on this index. They don't like uncertaint situations and are more conservative. Singapore scores very low. They don't mind a bit of uncertaintly and are more open to innovation and change. The Netherlands are in the middle on this index. 
+
+#### Masculinity vs. femininity (MAS)
+
+
+
 (https://en.wikipedia.org/wiki/Hofstede%27s_cultural_dimensions_theory#:~:text=The%20original%20theory%20proposed%20four,orientation%20versus%20person%2Dorientation)
+
 (https://clearlycultural.com/geert-hofstede-cultural-dimensions/)
+
+(https://www.mindtools.com/pages/article/newLDR_66.htm#:~:text=4.,predictable%20and%20controllable%20as%20possible.)
 ### 4. Examples of culural differences in my study and life.
 
 
