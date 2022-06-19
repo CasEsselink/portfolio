@@ -42,13 +42,13 @@ As told earlier, was I responseble for the connecting between the shopping kart 
 ### 4. Individual project
 For my individual project I made a vue front-end and a springboot back-end. I used vue with javascript and uses axios to connect to the back-end. This connection is made with Rest calls. The springboot services are made with java. I have multiple services, that all use there own mysql database. The connection to the database is made with hibernate as on orm. I used usability testing to ensure that my web application is user-friendly. 
 
-The link to my individual project: https://github.com/S3Puzzle
+[My individual project ](https://github.com/S3Puzzle)
 
 ### 5. Design
 
 ![image](https://user-images.githubusercontent.com/49039524/174486078-a4482e9b-6779-4c2f-aaa0-ee94be6a840d.png)
 
-In the readme of my individual project. I explain how my application works.(https://github.com/S3Puzzle)
+In the [readme](https://github.com/S3Puzzle) of my individual project. I explain how my application works.
 
 ## Software quality
 *You use software tooling and methodology that continuously monitors and improve the software quality during software development.*
