@@ -144,7 +144,7 @@ In our group project we use jira to manage out project. At the start of our proj
 ![image](https://user-images.githubusercontent.com/49039524/165054590-5130bf44-fabf-4e46-b0d3-973da6ba87f2.png)
 
 ### 4. Standup and standdown
-Every day we have a standup and standdown. I was the scrum master for the second and third sprint. As scrum master I was responsible for a smooth standup and standdown. During the standup we ask all members of the team what they did last time and what they are going to do that day. During the standdown we ask what was completed and what they were not able to complete that day. All the minutes are saved in discord. These are from standups and down, but also from meetings with teachers and product owners. 
+Every day we have a standup and standdown. I was the scrum master for the second and third sprint. As scrum master I was responsible for a smooth standup and standdown. During the standup we ask all members of the team what they did last time and what they are going to do that day. During the standdown we ask what was completed and what they were not able to complete that day. All the minutes are saved in discord. These are from standups and downs, but there are also ones from meetings with teachers and product owners. 
 ![image](https://user-images.githubusercontent.com/49039524/165056092-7166df38-28a6-42f5-bf84-232974fa8c31.png)
 
 ### 5. Github project
