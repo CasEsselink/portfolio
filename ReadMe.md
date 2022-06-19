@@ -29,6 +29,9 @@ Making sure your web application is user friendly, is a way to avoid problems in
 ### 2. React
 I learned to make and develop an React application. In our group project we used typescript as our language in React. We used it to make a shopping kart and I was mainly responseble for connecting the shopping cart to the restaurants staff tool. This staff tool is also made using React and typescript. I was personally responseble for making the frontend for the manager tool. The frontend sends a get request to the server and displays the given data in a table. 
 
+![image](https://user-images.githubusercontent.com/49039524/174483747-976176c3-5947-4973-bf75-096f0e269a14.png)
+
+
 ### 3. API
 As told earlier was I responseble for the connecting between the shopping kart and the restaurants staff tool. The two are connected with a Rest calls and websockets. These Rest calls and websockets are made with Springboot. Springboot uses java as an programming language. The shopping kart uses an post request to sent an order to the backend. When the backend receives an order, the websockets send a message to the staff tool. The staff tool then send an get request back to the backend to receive all orders. In the staff tool you can change an order status, when you do this an put request is send to the backend to update the order.
 
