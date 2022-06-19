@@ -230,9 +230,15 @@ This index measures how easy less powerfull members of a group accept unequel po
 Individualism is focused on taking care of yourself and your direct family. Collectivism is about thinking in interest of the group. This means being loyal to a big group like an extended family. In a collectivism society ties between individuals are closer and looking after each other is very important. Ecuador and Guatemala score very low on this index, meaning they are very collective. The United States on the other hand scores very high, meaning they are very individual. Which is in line with the american dream, that is focused on selfgrowth. The Netherland score also very high on this scale.
 
 #### Uncertainty avoidance (UAI)
-Un certainty avoidance indicates how comfortable people are unstructured situations. Cultures that score high on this scale will have a lot of rules and laws to minimize uncentaint situations. Greece and Portugal score very high on this index. They don't like uncertaint situations and are more conservative. Singapore scores very low. They don't mind a bit of uncertaintly and are more open to innovation and change. The Netherlands are in the middle on this index. 
+Uncertainty avoidance indicates how comfortable people are unstructured situations. Cultures that score high on this scale will have a lot of rules and laws to minimize uncentaint situations. Greece and Portugal score very high on this index. They don't like uncertaint situations and are more conservative. Singapore scores very low. They don't mind a bit of uncertaintly and are more open to innovation and change. The Netherlands are in the middle on this index. 
 
 #### Masculinity vs. femininity (MAS)
+In masculin culture people are more assertive and competitive. People have stronger ego's and achievement are important. In more feminin cultures, people are more modest and caring. These cultured are more relationship oriented and focus more on quality of life. Japan scores very high on this index, meaning that it is a very masculin country. They are very competitive and work long hours. All scandinavian countries score very low on this index. They are more focused on quality of life. The Netherlands also scores very low.
+
+#### Long-term orientation vs. short-term orientation (LTO)
+Cultures that focus more on long-term, place higher value on education. They are persisent and obligations are emphasized. People from these cultures are more modest. Cultures that focus on short-term on the other hand, have strong convictions. They sell themselves to be taken seriously. They focus on personal steadiness and stability. China scores very high on this index. They focus more on long term gains. Sierra Leone scores very low. They value short term gains and quick results. The Netherlands score is in the middle. 
+
+#### Indulgence vs. restraint (IND)
 
 
 
@@ -243,6 +249,8 @@ Un certainty avoidance indicates how comfortable people are unstructured situati
 (https://www.mindtools.com/pages/article/newLDR_66.htm#:~:text=4.,predictable%20and%20controllable%20as%20possible.)
 ### 4. Examples of culural differences in my study and life.
 
+
+(https://www.hofstede-insights.com/country/romania/)
 
 ### 5. Ethics
 For the group project we make an application to order in restaurants. This could potentionly cost a part of the waiters their job. This could financially harm them, this would by against the AMC Code of Ethics to avoid to harm others. While you could interpreted is as this, I believe this is not the case. First of all does the app not replace waiters entirely. Food still needs to be brougt to the tables and because people can order faster, this is more work. So I believe that in most cases, the workload would just from taking orders to other responiblities, which in turn make the whole business more efficient. I also believe that our project contributes to society and human well-being. It saves the customer, everytime they come to eat. An order applicaton also makes it very easy to see if there are ingredients, that you have allergies for.
