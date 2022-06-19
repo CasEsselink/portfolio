@@ -68,7 +68,8 @@ Tests I wrote for the group project: https://github.com/fontys-group3/bestel-ser
 
 ### 3. Automating tests 
 I made a maven workflow in github. This workflow build the application and runs the tests on each push and merge on the main branch. This is the workflow I made for one of the repositories in my personal project:
-'''
+
+
 name: Leaderboard cicd
 
 on:
