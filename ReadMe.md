@@ -72,8 +72,9 @@ I made a maven workflow in github. This workflow build the application and runs 
 ![image](https://user-images.githubusercontent.com/49039524/174494124-dcb969f7-e214-4d6a-923a-218a42c4195f.png)
       
 ### 4. Code analyses
-
 I decided on using sonarcloud for my code analyses. This was one of the recommened sites on canvas. I choose this one instead of sonarqub, because sonarcloud gave me the option to import my git repositories for free.
+
+![image](https://user-images.githubusercontent.com/49039524/174494173-1e8684c6-303c-4434-8550-3f958cd27195.png)
 
 ## Agile method
 *You choose and implement the most suitable agile software development method for your software project.*
