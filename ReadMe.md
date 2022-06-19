@@ -64,7 +64,7 @@ These are my tests for the servers of my individual project: https://github.com/
 
 https://github.com/S3Puzzle/Name-service/tree/main/src/test/java/com/cas/name
 
-Test I wrote for the group project: https://github.com/fontys-group3/bestel-service/tree/main/src/test/java/com/groep3/bestel/tests
+Tests I wrote for the group project: https://github.com/fontys-group3/bestel-service/tree/main/src/test/java/com/groep3/bestel/tests
 
 ### 3. Automating tests 
 I made a maven workflow in github. This workflow build the application and runs the tests on each push and merge on the main branch. This is the workflow I made for one of the repositories in my personal project:
