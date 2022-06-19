@@ -71,13 +71,11 @@ I made a maven workflow in github. This workflow build the application and runs 
 
    
 name: Leaderboard cicd
-
 on:
   push:
     branches: [ main ]
   pull_request:
     branches: [ main ]
-
 jobs:
   build:
     env:
@@ -85,7 +83,6 @@ jobs:
       DB_USER: root
       DB_PASSWORD: root
     runs-on: ubuntu-latest
-
  	steps:
     - uses: actions/checkout@v3
     - name: Set up JDK 11
