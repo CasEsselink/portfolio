@@ -83,6 +83,7 @@ jobs:
       DB_USER: root
       DB_PASSWORD: root
     runs-on: ubuntu-latest
+    
  	steps:
     - uses: actions/checkout@v3
     - name: Set up JDK 11
