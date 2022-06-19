@@ -1,7 +1,6 @@
 # Learning Outcomes
-```ts
 In this file I will indicate where and how I have worked on the learning outcomes. I will for every learning outcome explain the importance of the learning outcome. After that I will go through everything I did this semester relating to the learning outcome.
-```
+
 
 ## Table of contents
 Group project:
@@ -71,7 +70,41 @@ Tests I wrote for the group project: https://github.com/fontys-group3/bestel-ser
 ### 3. Automating tests 
 I made a maven workflow in github. This workflow build the application and runs the tests on each push and merge on the main branch. This is the workflow I made for one of the repositories in my personal project:
 
-![image](https://user-images.githubusercontent.com/49039524/174494124-dcb969f7-e214-4d6a-923a-218a42c4195f.png)
+```ts
+name: Leaderboard cicd
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+    env:
+      DB_DATABASE: leaderboard
+      DB_USER: root
+      DB_PASSWORD: root
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up JDK 11
+        uses: actions/setup-java@v3
+        with:
+          java-version: '11'
+          distribution: 'temurin'
+          cache: maven
+      - name: Set up MySQL
+        run: |
+          sudo /etc/init.d/mysql start
+          mysql -e 'CREATE DATABASE ${{ env.DB_DATABASE }};' -u${{ env.DB_USER }} -p${{ env.DB_PASSWORD }}
+      - name: Build with Maven
+        run: mvn clean install
+      - name: Test with Maven
+        run: mvn -B test
+
+```
       
 ### 4. Code analyses
 I decided on using sonarcloud for my code analyses. This was one of the recommened sites on canvas. I choose this one instead of sonarqub, because sonarcloud gave me the option to import my git repositories for free.
