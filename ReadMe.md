@@ -284,6 +284,7 @@ Like you can see there are 3 micro service and 3 web applicatons, they are conne
 
 ### 4. Security and Performance
 There were a few issues regarding security in this project. One was deleting your cookies to avoid payment. Our solution was to save the cookies in the backend, but this is not yet implemented. The other issue was people accesing the ordering website from outside the restaurant. An easy fix would be to check the ip-adress, but we don't want to force people to use the restaurant wifi. We tried to find other solutions, but we couldn't find a solution that suits our needs.
+
 Jira: https://s3groupproject.atlassian.net/jira/software/projects/SP/boards/1
 
 Restaurant Order System Documentation: https://github.com/fontys-group3
@@ -366,9 +367,7 @@ I researched gitrunners this semester. For my project this semester it was not r
 #### DOT framework
 This semester I did a research with the DOT framework for the first time. I started with the youtube tutorials and it seemed a bit overwhelming. After just starting with it was not too bad and I was able to write a nice research.
 
-Research: https://github.com/S3Puzzle/Research
-
-## Conclusion 
+Research: https://github.com/S3Puzzle/Research 
 
 GP github: https://github.com/fontys-group3
 
