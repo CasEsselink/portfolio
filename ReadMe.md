@@ -32,12 +32,12 @@ I learned to make and develop an React application. In our group project we used
 
 ![image](https://user-images.githubusercontent.com/49039524/174483747-976176c3-5947-4973-bf75-096f0e269a14.png)
 
-The view I made: https://github.com/fontys-group3/Management-view
+[Manager View ](https://github.com/fontys-group3/Management-view)
 
 ### 3. API
 As told earlier, was I responseble for the connecting between the shopping kart and the restaurants staff tool. The two are connected with a Rest calls and websockets. These Rest calls and websockets are made in Spring boot. Spring boot uses java as an programming language. The shopping kart uses an post request to sent an order to the backend. When the backend receives an order, the websockets send a message to the staff tool. The staff tool then send an get request back to the backend to receive all orders. These orders get divided in drink and food orders. The staff tool has a bar and a kitchen version. The bar displays drinks and the kitchen food. In the staff tool you can change an order status, when you do this an put request is send to the backend to update the order.
 
-The spring boot service I made: https://github.com/fontys-group3/bestel-service
+[The spring boot service I made ](https://github.com/fontys-group3/bestel-service)
 
 ### 4. Individual project
 For my individual project I made a vue front-end and a springboot back-end. I used vue with javascript and uses axios to connect to the back-end. This connection is made with Rest calls. The springboot services are made with java. I have multiple services, that all use there own mysql database. The connection to the database is made with hibernate as on orm. I used usability testing to ensure that my web application is user-friendly. 
