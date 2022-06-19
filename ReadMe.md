@@ -140,7 +140,7 @@ Scrum is the method we are using and it revolves around sprints. These sprints a
 (https://www.digite.com/agile/agile-methodology/#agile-methodology)
 
 ### 3. Jira 
-In our group project we use jira to manage out project. At the start of our project we wrote user stories, based on the requirements from the project owners. We put there user stories on our backlog. On the beginning of every sprint we choose which user stories to implement that sprint. To help us to choose the right user stories we use storypoints. When we agree on the storypoint and the user stories we want to implement, we start the sprint. Then we divide the user stories between us. The user stories themselve we divide in to issues. We start working on the issues and log time spent on these issues. After all isseus are done a user story is done. 
+In our group project we use jira to manage out project. At the start of our project we wrote user stories, based on the requirements from the project owners. We put there user stories on our backlog. On the beginning of every sprint we choose which user stories to implement that sprint. To help us to choose the right user stories we use storypoints. When we agree on the storypoint and the user stories we want to implement, we start the sprint. Then we divide the user stories between us. The user stories themselve we divide in to issues. We start working on the issues and log time spent on these issues. After all isseus are done a user story is done. We keep track of the user stories using this board. 
 ![image](https://user-images.githubusercontent.com/49039524/165054590-5130bf44-fabf-4e46-b0d3-973da6ba87f2.png)
 
 ### 4. Standup and standdown
