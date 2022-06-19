@@ -217,10 +217,15 @@ Leaderboard git: https://github.com/S3Puzzle/Leaderboard-service (in application
 ### 1. Why
 Understanding cultural differences is very important to avoid misunderstandings. Ignorance about cultural differences can result in unintentionaly insulting a team member. It can also cause a lack of clarity on agreements, because of different work habits. Being aware of ethics is important, because you are responible for your finished product. It means that you can be held accountable for ethical violations. 
 
-### 2. Cultural differences
+### 2. What is culture? 
 First of all it is important to know what culture is. Culture common practices and behaviour of a group that are past down over generations. An example of culture are traditions and celebrations. Like "Sinterklaas" in the netherlands.
 
-### 3. Ethics
+### 3. Which are well-known dimensions on cultural differences? 
+
+### 4. Examples of culural differences in my study and life.
+
+
+### 5. Ethics
 For the group project we make an application to order in restaurants. This could potentionly cost a part of the waiters their job. This could financially harm them, this would by against the AMC Code of Ethics to avoid to harm others. While you could interpreted is as this, I believe this is not the case. First of all does the app not replace waiters entirely. Food still needs to be brougt to the tables and because people can order faster, this is more work. So I believe that in most cases, the workload would just from taking orders to other responiblities, which in turn make the whole business more efficient. I also believe that our project contributes to society and human well-being. It saves the customer, everytime they come to eat. An order applicaton also makes it very easy to see if there are ingredients, that you have allergies for.
 
 ## Requirements and Design
