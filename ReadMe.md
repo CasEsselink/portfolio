@@ -35,7 +35,7 @@ I learned to make and develop an React application. In our group project we used
 As told earlier was I responseble for the connecting between the shopping kart and the restaurants staff tool. The two are connected with a Rest calls and websockets. These Rest calls and websockets are made with Springboot. Springboot uses java as an programming language. The shopping kart uses an post request to sent an order to the backend. When the backend receives an order, the websockets send a message to the staff tool. The staff tool then send an get request back to the backend to receive all orders. In the staff tool you can change an order status, when you do this an put request is send to the backend to update the order.
 
 ### 4. Individual project
-For my individual project I made a vue front-end and a springboot back-end. I used vue with javascript and uses axios to connect to the back-end. This connection is made with Rest calls. The springboot servers are made with java. I have multiple servers, that all use there own mysql database. The connection to the is made with JPA as on orm. I used usability testing to ensure that my web application is user-friendly. 
+For my individual project I made a vue front-end and a springboot back-end. I used vue with javascript and uses axios to connect to the back-end. This connection is made with Rest calls. The springboot servers are made with java. I have multiple servers, that all use there own mysql database. The connection to the is made with hibernate as on orm. I used usability testing to ensure that my web application is user-friendly. 
 
 The link to my individual project: https://github.com/S3Puzzle
 
@@ -336,7 +336,7 @@ Communication between group members like reporting you will be absent was done i
 For both the gp and ip I had to learn a lot new skills. We had a lot of freedom so I tried a lot of new things. I also don't have much of an ict background, so a lot is new for me. Here are some practical skills I learned this semester:
 
 #### Spring boot
-This I used for both gp and ip. I did have some java experience (tu programming course), but I never worked with spring boot or distrubuted systems. JPA was also new for me. Last semester we used an orm called ktorm and this was the only experience I had with databases. JPA was completly different, but very easy to use. This was the first time for me making an API, I always taught it was very complicated. but it was easy to pick up. 
+This I used for both gp and ip. I did have some java experience (tu programming course), but I never worked with spring boot or distrubuted systems. Hibernate was also new for me. Last semester we used an orm called ktorm and this was the only experience I had with databases. Hibernate is very different, but easy to get in to. This was the first time for me making an API, I always taught it was very complicated. but it was easy to pick up. 
 
 #### Github action 
 I never used it before and it started easy, but during the semester I have spend quite sometime solving problems with github actions. Setting up the mysql was quite challenging. It works for test and it is very convenient to instantly see bugs. This skill will certainly save more time in the futere than that it cost to learn. 
