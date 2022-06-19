@@ -31,6 +31,8 @@ I learned to make and develop an React application. In our group project we used
 
 ![image](https://user-images.githubusercontent.com/49039524/174483747-976176c3-5947-4973-bf75-096f0e269a14.png)
 
+The view I made: https://github.com/fontys-group3/Management-view
+
 ### 3. API
 As told earlier was I responseble for the connecting between the shopping kart and the restaurants staff tool. The two are connected with a Rest calls and websockets. These Rest calls and websockets are made with Springboot. Springboot uses java as an programming language. The shopping kart uses an post request to sent an order to the backend. When the backend receives an order, the websockets send a message to the staff tool. The staff tool then send an get request back to the backend to receive all orders. In the staff tool you can change an order status, when you do this an put request is send to the backend to update the order.
 
