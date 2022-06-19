@@ -69,7 +69,7 @@ Tests I wrote for the group project: https://github.com/fontys-group3/bestel-ser
 ### 3. Automating tests 
 I made a maven workflow in github. This workflow build the application and runs the tests on each push and merge on the main branch. This is the workflow I made for one of the repositories in my personal project:
 
-
+   
 name: Leaderboard cicd
 
 on:
@@ -86,7 +86,7 @@ jobs:
       DB_PASSWORD: root
     runs-on: ubuntu-latest
 
-    steps:
+ steps:
     - uses: actions/checkout@v3
     - name: Set up JDK 11
       uses: actions/setup-java@v3
