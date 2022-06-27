@@ -292,6 +292,12 @@ Like you can see there are 3 micro service and 3 web applicatons, they are conne
 ### 4. Security and Performance
 There were a few issues regarding security in this project. One was deleting your cookies to avoid payment. Our solution was to save the cookies in the backend, but this is not yet implemented. The other issue was people accesing the ordering website from outside the restaurant. An easy fix would be to check the ip-adress, but we don't want to force people to use the restaurant wifi. We tried to find other solutions, but we couldn't find a solution that suits our needs.
 
+### 5. Design
+For the group project I designed and made the manager application. In the design you see in the taskbar 3 different pages. The two that are not selected are supposed to show different data in the same sort of table. 
+
+![image](https://user-images.githubusercontent.com/49039524/175903857-ddd7eef1-5497-4d25-8522-d21d8c7e2106.png)
+
+
 [Jira](https://s3groupproject.atlassian.net/jira/software/projects/SP/boards/1)
 
 [Restaurant Order System Documentation](https://github.com/fontys-group3)
